@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1324
     wikipedia: http://en.wikipedia.org/wiki/William_John_Locke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14669#Jaffery
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2005-01-11'
 gutenberg_type: Text
